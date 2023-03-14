@@ -1,6 +1,4 @@
 import React from "react";
-import { Container, Row, Col, Button } from "react-bootstrap";
-import mydog from "./images/buddy.png";
 import "./App.css";
 import { ChangeType } from "./components/ChangeType";
 import { RevealAnswer } from "./components/RevealAnswer";
