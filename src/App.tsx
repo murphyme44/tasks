@@ -23,7 +23,7 @@ function App(): JSX.Element {
                 UD CISC275 with React Hooks and TypeScript Michael Murphy
             </header>
             <hr></hr>
-            <CheckAnswer expectedAnswer="42"></CheckAnswer>
+            <CheckAnswer expectedAnswer=""></CheckAnswer>
             <hr></hr>
             <GiveAttempts></GiveAttempts>
             <hr></hr>
